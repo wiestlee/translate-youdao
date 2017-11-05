@@ -1,6 +1,6 @@
 {
   "name": "wiestranslate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a command line translation tool",
   "main": "start.js",
   "scripts": {
