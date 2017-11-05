@@ -12,6 +12,7 @@
     "cheerio": "^1.0.0-rc.2",
     "commander": "^2.11.0",
     "http": "0.0.0",
+    "is-chinese": "^1.2.5",
     "md5": "^2.2.1",
     "querystring": "^0.2.0",
     "superagent": "^3.8.0"
