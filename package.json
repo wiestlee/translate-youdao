@@ -16,5 +16,17 @@
     "md5": "^2.2.1",
     "querystring": "^0.2.0",
     "superagent": "^3.8.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiestlee/translate-youdao.git"
+  },
+  "keywords": [
+    "commander"
+  ],
+  "bugs": {
+    "url": "https://github.com/wiestlee/translate-youdao/issues"
+  },
+  "homepage": "https://github.com/wiestlee/translate-youdao#readme"
 }
