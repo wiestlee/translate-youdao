@@ -12,7 +12,7 @@ npm install wiestranslate -g
 # Help
 
 ```
-  Usage: start [options]
+  Usage: wing [options]
 
   输入要翻译的单词即可使用
 
@@ -33,7 +33,7 @@ npm install wiestranslate -g
 ## English -> Zh
 
 ```
-start -a good
+wing -a good
 
 ```
 ### Output
@@ -59,7 +59,7 @@ adj. 好的；优良的；愉快的；虔诚的
 ## Zh -> English
 
 ```
-start -a 好
+wing -a 好
 
 ```
 
