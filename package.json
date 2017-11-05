@@ -1,5 +1,5 @@
 {
-  "name": "translate-youdao",
+  "name": "wiestranslate",
   "version": "1.0.0",
   "description": "a command line translation tool",
   "main": "index.js",
