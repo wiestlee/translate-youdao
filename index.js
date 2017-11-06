@@ -1,3 +1,9 @@
+#!/usr/bin/env node
+
+/**
+ * Module dependencies.
+ */
+
 var program = require('commander');
 var http = require('http');
 var md5 = require('md5');
